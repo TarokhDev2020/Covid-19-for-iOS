@@ -6,7 +6,10 @@ Track and get the latest news about covid-19 pandemic such as how many people re
 ```bash
 $ cd /Users/user/my_project
 $ git clone https://github.com/TarokhDev2020/Covid-19-for-iOS.git
+$ pod install
 ```
+* Get your api key from [NewsApi](https://newsapi.org/)
+* Go to GlobalApi.swift and replace your api key
 
 ## Design Pattern ##
 * MVC
@@ -18,17 +21,14 @@ $ git clone https://github.com/TarokhDev2020/Covid-19-for-iOS.git
 * [BubbleTabBar](https://github.com/Cuberto/bubble-icon-tabbar)
 
 ## Screenshots ##
-![Simulator Screen Shot - iPhone 11 Pro - 2020-08-25 at 17 45 33](https://user-images.githubusercontent.com/72879576/96607084-d89e9300-1304-11eb-9f72-44a4e4921306.png)
 
-![Simulator Screen Shot - iPhone 11 Pro - 2020-08-25 at 17 45 39](https://user-images.githubusercontent.com/72879576/96607091-db998380-1304-11eb-92c5-943fdc1b7242.png)
 
-![Simulator Screen Shot - iPhone 11 Pro - 2020-08-25 at 17 46 06](https://user-images.githubusercontent.com/72879576/96607130-e6ecaf00-1304-11eb-9a22-543e09528b83.png)
+![Simulator Screen Shot - iPhone 11 Pro - 2020-08-25 at 17 46 11](https://user-images.githubusercontent.com/72879576/96607769-8c078780-1305-11eb-8394-7b781235d50a.png)
 
-![Simulator Screen Shot - iPhone 11 Pro - 2020-08-25 at 17 46 11](https://user-images.githubusercontent.com/72879576/96607128-e6ecaf00-1304-11eb-8e01-5f7b5006270d.png)
-
-![Uploading Simulator Screen Shot - iPhone 11 Pro - 2020-08-25 at 17.46.25.png…]()
-
-![Simulator Screen Shot - iPhone 11 Pro - 2020-08-25 at 17 46 27](https://user-images.githubusercontent.com/72879576/96607167-f1a74400-1304-11eb-8696-e99fe22617c0.png)
+<img src="https://user-images.githubusercontent.com/72879576/96607707-7c883e80-1305-11eb-8f10-a3bb66cbea95.png" alt="Covid-19 for iOS" width="250"/>
+<img src="https://user-images.githubusercontent.com/72879576/96607723-814cf280-1305-11eb-8f14-c7ee11612a29.png" alt="Covid-19 for iOS" width="250"/>
+<img src="https://user-images.githubusercontent.com/72879576/96607732-84e07980-1305-11eb-8d46-4b65747059dc.png" alt="Covid-19 for iOS" width="250"/>
+<img src="https://user-images.githubusercontent.com/72879576/96607769-8c078780-1305-11eb-8394-7b781235d50a.png" alt="Covid-19 for iOS" width="250"/>
 
 
 ## MIT License ##
