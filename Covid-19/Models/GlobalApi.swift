@@ -68,7 +68,7 @@ extension GlobalApi: TargetType {
         case .all:
             return ["Content-Type": "application/json"]
         case .news:
-            return ["Content-Type": "application/json", "x-api-key":"efd0b4278f4944e9a1781ed64d35f56e"]
+            return ["Content-Type": "application/json", "x-api-key":"YOUR API KEY"]
         case .country:
             return ["Content-Type": "application/json"]
         }
